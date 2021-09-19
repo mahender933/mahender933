@@ -21,13 +21,12 @@ I’m [Mahender Thakur](https://www.linkedin.com/in/mahender-thakur-940708145/) 
 
 ---
 <!-- credits: @anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahender933&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-<!-- credits: @anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mahender933&show_icons=true&high_border=true&theme=vue-dark" />
+<a href="https://github.com/mahender933/git-stats-workflow">
+ <img align="left" src="https://git-stats-workflow-mahender933.vercel.app/api/top-langs/?username=mahender933&theme=vue-dark" />
+</a> 
+<a href="https://github.com/mahender933/git-stats-workflow">
+ <img align="right" src="https://git-stats-workflow-mahender933.vercel.app/api/?username=mahender933&show_icons=true&high_border=true&theme=vue-dark" />
 </a>
 
 <!---
