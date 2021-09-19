@@ -18,6 +18,18 @@ I’m [Mahender Thakur](https://www.linkedin.com/in/mahender-thakur-940708145/) 
   <img align="left" alt="Mahender's Twitter" width="80px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a><br/>
 
+
+---
+<!-- credits: @anuraghazra/github-readme-stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahender933&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<!-- credits: @anuraghazra/github-readme-stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=mahender933&show_icons=true&high_border=true&theme=vue-dark" />
+</a>
+
 <!---
 - 👀 I am a Backend Engineer with almost 3 years of industry experience. I specialize in designing, developing, testing and implementing 
       various stand-alone as well as distributed application in Python.
