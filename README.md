@@ -2,10 +2,14 @@
 ### <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25px"> Namaste, Welcome to my page 😃 <br/>
 
 <!-- Introduction -->
-I’m [Mahender Thakur](https://www.linkedin.com/in/mahender-thakur-940708145/) Backend Software Engineer from **India** <img alt="Indian flag" width="25px" height="20px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-india-flag-countrys-flags-justicon-lineal-color-justicon.png" />. I specialize in designing, developing, testing and implementing various stand-alone as well as distributed applications. I'm passionate about what I do and take great care in the architecture and code quality of things I built.
+I’m [Mahender Thakur](https://www.linkedin.com/in/mahender-thakur-940708145/) Backend Software Engineer :computer: from **India** <img alt="Indian flag" width="25px" height="20px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-india-flag-countrys-flags-justicon-lineal-color-justicon.png" />. I specialize in designing, developing, testing and implementing various stand-alone as well as distributed applications. I'm passionate about what I do and take great care in the architecture and code quality of things I built.
+
+<p align="center">
+ <img src="https://media.giphy.com/media/a8rlSHPozsTEuh1ibJ/giphy.gif" alt="Passionate Coder GIF" width="250"></img>
+</p>
 
 <!-- Social Links -->
-🔗 &nbsp;**Connect with me**
+### 🔗 &nbsp; **Connect with me**
 
 <p>
 	<a href="https://stackoverflow.com/users/9276634/mahender-thakur"> <img align="left" alt="Mahender's Twitter" width="120px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> </a>
@@ -15,9 +19,9 @@ I’m [Mahender Thakur](https://www.linkedin.com/in/mahender-thakur-940708145/) 
 </p> 
  
  ---
-
+ 
+### 🛠️&nbsp;&nbsp;Languages&nbsp;&&nbsp;Tools <br/><br/>
 <p align="left">
- <b>🛠️&nbsp;&nbsp;Languages&nbsp;&&nbsp;Tools</b><br/><br/>
 	<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" style="max-width: 100%;"> </a>
 	<a href="https://flask.palletsprojects.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="max-width: 100%;"> </a>
@@ -82,6 +86,8 @@ I’m [Mahender Thakur](https://www.linkedin.com/in/mahender-thakur-940708145/) 
 
 
 <!---
+# TODO:
+👨🏻‍💻 About Me:
 - 👀 I am a Backend Engineer with almost 3 years of industry experience. I specialize in designing, developing, testing and implementing 
       various stand-alone as well as distributed application in Python.
 - 🌱 I’m currently learning ...
