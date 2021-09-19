@@ -72,10 +72,13 @@ I’m [Mahender Thakur](https://www.linkedin.com/in/mahender-thakur-940708145/) 
 ---
 
 <!-- credits: @anuraghazra/github-readme-stats -->
-<p>
-	<a href="https://github.com/mahender933/git-stats-workflow"> <img align="left" src="https://git-stats-workflow-mahender933.vercel.app/api/top-langs/?username=mahender933&theme=vue-dark" /> </a> &nbsp;
-	<a href="https://github.com/mahender933/git-stats-workflow"> <img align="right" src="https://git-stats-workflow-mahender933.vercel.app/api/?username=mahender933&show_icons=true&high_border=true&theme=vue-dark" /> </a>
+<p align="center">
+ <a href="https://github.com/mahender933/git-stats-workflow"> <img align="center" src="https://git-stats-workflow-mahender933.vercel.app/api/top-langs/?username=mahender933&theme=vue-dark" /></a>
 </p>
+<p align="center">
+ <a href="https://github.com/mahender933/git-stats-workflow"> <img align="center" src="https://git-stats-workflow-mahender933.vercel.app/api/?username=mahender933&show_icons=true&high_border=true&theme=vue-dark" /></a>
+</p>
+
 
 
 <!---
